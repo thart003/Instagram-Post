@@ -20,8 +20,8 @@ margin-top: -60px;
 }
 img{
   position: relative;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: -10px;
+  margin-right: -10px;
   top: -90px;
   width: 100%;
   text-align: center;
@@ -72,12 +72,14 @@ text-align: center;
 }
 .footer-icons-left{
 float: left;
+margin-left: 10px;
 margin-top: -170px;
 background-color: white;
 }
 .footer-icons-right{
 margin-top: -170px;
 float: right;
+margin-right: 10px;
 background-color: white;
 }
 .bottom{
