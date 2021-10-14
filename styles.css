@@ -1,0 +1,103 @@
+.post{
+    align-items: center;
+    background-color: black;
+    position: fixed;
+    padding: 90px 0;
+}
+.header{
+  display: block;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 70px 0;
+  width: 40%;
+}
+#html{
+float: left;
+margin-left: -200px;
+font-size: 70px;
+margin-top: -60px;
+}
+img{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  top: -90px;
+  width: 100%;
+  text-align: center;
+  border-right: 5px solid greenyellow;
+  border-left: 5px solid greenyellow;
+}
+.logo{
+  position: relative;
+  margin-left: 175 px;
+  top: 8px;
+  font-size: 20px;
+  float: left;
+}
+h3{
+  position: relative;
+  right: 120px;
+  top: -70px;
+}
+p2{
+  position: relative;
+  right: 110px;
+  top: -90px;
+}
+p{
+  position: relative;
+  right: 0px;
+  top:-50px;
+}
+.header-left{
+display: block;
+text-align: center;
+}
+#header-right{
+  float: right;
+  margin-right: -500px;
+  margin-top: -70px;
+  font-size: 50px;
+}
+.top{
+    display: flex;
+    background: white;
+    position: relative;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-right: 5px solid greenyellow;
+    border-left: 5px solid greenyellow;
+    border-top: 5px solid greenyellow;
+}
+.footer-icons-left{
+float: left;
+margin-top: -170px;
+background-color: white;
+}
+.footer-icons-right{
+margin-top: -170px;
+float: right;
+background-color: white;
+}
+.bottom{
+  position: relative;
+  background: white;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+.middle{
+  background: white;
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: center;
+  border-right: 5px solid greenyellow;
+  border-left: 5px solid greenyellow;
+  border-bottom: 5px solid greenyellow;
+}
+.liked{
+  position: relative;
+  top: -50px;
+  padding-left: 30%;
+  padding-right: 30%;
+}
