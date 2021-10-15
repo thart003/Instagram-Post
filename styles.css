@@ -75,12 +75,14 @@ float: left;
 margin-left: 10px;
 margin-top: -170px;
 background-color: white;
+font-size: 25px;
 }
 .footer-icons-right{
 margin-top: -170px;
 float: right;
 margin-right: 10px;
 background-color: white;
+font-size: 25px;
 }
 .bottom{
   position: relative;
@@ -99,6 +101,7 @@ background-color: white;
 }
 .liked{
   position: relative;
+  left: -295px;
   top: -50px;
   padding-left: 30%;
   padding-right: 30%;
